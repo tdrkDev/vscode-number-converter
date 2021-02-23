@@ -5,7 +5,7 @@
 ## Usage
 1. Select number to convert
 2. Click on RMB
-3. Click on '''SNC: Convert to xxx'''
+3. Click on ```SNC: Convert to xxx```
 4. Done!
 
 ## Images
