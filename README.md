@@ -1,32 +1,15 @@
-# [Number Converter](https://marketplace.visualstudio.com/items?itemName=kamiyaowl.number-converter)
+# VS Code Number Converter
 
-![preview](https://github.com/kamiyaowl/vscode-number-converter/raw/master/images/preview.gif)
+## Usage
+1. Select number to convert
+2. Click on RMB
+3. Click on '''SNC: Convert to xxx'''
+4. Done!
 
-## Features
+## Images
+![preview1](https://github.com/tdrkDev/vscode-number-converter/raw/master/images/before.png)
+![preview2](https://github.com/tdrkDev/vscode-number-converter/raw/master/images/after.png)
 
-カーソル選択中の数値、もしくはテキストインプットされた数値を2進数、10進数、16進数に変換して表示します。
 
-* Number Converter: Convert Number
-  * 現在選択中の数値を変換(マルチカーソル対応)
-  * 範囲選択していなかった場合、現在の行に含まれる数値を変換します
-* Number Converter: Convert Number(from InputBox)
-  * テキストインプットが表示される
-  * スペース区切りで複数入力可能
 
-## Requirements
-
-Nothing
-
-## Extension Settings
-
-Nothing
-
-## Known Issues
-
-Nothing
-
-## Release Notes
-
-### 1.0.0
-
-Initial release
+* Full rewrite of kamiyaowl's vscode-number-converter
