@@ -5,6 +5,7 @@
 	"publisher": "tdrkDev",
 	"repository": "https://github.com/tdrkDev/vscode-number-converter",
 	"version": "1.0.0",
+	"icon": "https://github.com/tdrkDev/vscode-number-converter/raw/master/images/icon.png",
 	"engines": {
 		"vscode": "^1.36.0"
 	},

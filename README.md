@@ -1,5 +1,7 @@
 # VS Code Number Converter
 
+![previewicon](https://github.com/tdrkDev/vscode-number-converter/raw/master/images/icon.png)
+
 ## Usage
 1. Select number to convert
 2. Click on RMB
